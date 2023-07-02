@@ -3,8 +3,8 @@ we do codings in very popular programming language \
 [![python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=white&style=for-the-badge)](https://python.org)
 
 ## Projects
-- [Python Bot](https://github.com/maxy-devs/.github/edit/main/profile/README.md#python-bot)
-- [Python Bot API](https://github.com/maxy-devs/.github/edit/main/profile/README.md#python-bot-api)
+- [Python Bot](https://github.com/maxy-devs#python-bot)
+- [Python Bot API](https://github.com/maxy-devs#python-bot-)
 
 # Python Bot
 yes you heard it right i have a discord bot
