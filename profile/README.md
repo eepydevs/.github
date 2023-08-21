@@ -5,3 +5,4 @@ We code in a very popular programming language \
 ## Projects
 - [Python Bot](https://github.com/maxy-devs/pythonbot)
 - [Python Bot API](https://github.com/maxy-devs/pythonbotapi)
+- [Link Embedder](https://github.com/maxy-devs/embedlink)
