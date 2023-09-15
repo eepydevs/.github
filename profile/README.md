@@ -7,7 +7,7 @@ We code in very popular programming languages \
 ## Projects
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/843562496543817781/1152332442867339386/vYjNq3i9PJCy.png" alt="maxy-dev" height="120" vspace="10">
+  <img src="https://cdn.discordapp.com/attachments/843562496543817781/1152336478106562761/9ywMR0LOorS3.png" alt="maxy-dev" height="120" vspace="10">
 </p>
 <h1 align="center">maxy-dev</h1>
 <p align="center"><img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python"><br>the owner of this organization</p>
