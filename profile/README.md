@@ -8,9 +8,9 @@ We code in very popular programming languages \
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/843562496543817781/1152275948033552465/M9DFmyyZvcz6.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/843562496543817781/1152341787906683011/HNKwQN1gqRqq.png">
-    <img src="https://cdn.discordapp.com/attachments/843562496543817781/1152336478106562761/9ywMR0LOorS3.png" alt="maxy-dev" height="120" vspace="10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maxy-devs/.github/assets/72150634/1e2e7788-f214-4c50-b75a-96f48b2a27e8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/maxy-devs/.github/assets/72150634/e0f534db-3601-4aed-922f-ebd6be8b7e34">
+    <img src="https://github.com/maxy-devs/.github/assets/72150634/84531d48-fe68-4a93-9eea-6d3ec9ca7454" alt="maxy-dev" height="120" vspace="10">
   </picture>  
 </p>
 <h1 align="center">maxy-dev</h1>
@@ -28,9 +28,9 @@ We code in very popular programming languages \
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/843562496543817781/1152328155701448756/RfuS1uwHBK7N.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/843562496543817781/1152341802435743814/bV9JkMO3vG68.png">
-    <img src="https://cdn.discordapp.com/attachments/843562496543817781/1152328155701448756/RfuS1uwHBK7N.png" alt="frostzzone & inventionpro" height="120" vspace="10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maxy-devs/.github/assets/72150634/5e994585-a9d1-47d1-a7be-43a22bd7a38d">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/maxy-devs/.github/assets/72150634/252133f7-f9c0-478c-b248-50afcaaa8644">
+    <img src="https://github.com/maxy-devs/.github/assets/72150634/5e994585-a9d1-47d1-a7be-43a22bd7a38d" alt="frostzzone & inventionpro" height="120" vspace="10">
   </picture>  
 </p>
 <h1 align="center">frostzzone & inventionpro</h1>
