@@ -21,7 +21,7 @@ We code in very popular programming languages \
 - 🔗 [Link Embedder](https://github.com/eepydevs/embedlink) ✅
 - 🪶 [UltraLite](https://github.com/maxeepy/ultralite) ✅
 
-## 🛑 Deprecated 🛑
+### 🛑 Deprecated 🛑
 - [Python Bot](https://github.com/eepydevs/pythonbot) 🛑
 - [Python Bot API](https://github.com/eepydevs/pythonbotapi) 🛑
 
