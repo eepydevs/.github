@@ -1,4 +1,4 @@
-# Maxy's Development
+# Eepy Developers
 We code in very popular programming languages \
 [![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org) 
 [![javascript](https://img.shields.io/badge/-javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge)](https://nodejs.org/en)
@@ -13,16 +13,17 @@ We code in very popular programming languages \
     <img src="https://github.com/maxy-devs/.github/assets/72150634/84531d48-fe68-4a93-9eea-6d3ec9ca7454" alt="maxy-dev" height="120" vspace="10">
   </picture>  
 </p>
-<h1 align="center">maxy-dev</h1>
+<h1 align="center">maxeepy</h1>
 <p align="center"><img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python"><br>the owner of this organization</p>
 
 ## ✅ Active ✅
-- [maxy.bricked.dev](https://maxy.bricked.dev/) ✅
-- [Link Embedder](https://github.com/maxy-devs/embedlink) ✅
+- 🌐 [maxy.top](https://maxy.top/) ✅
+- 🔗 [Link Embedder](https://github.com/eepydevs/embedlink) ✅
+- 🪶 [UltraLite](https://github.com/maxeepy/ultralite) ✅
 
 ## 🛑 Deprecated 🛑
-- [Python Bot](https://github.com/maxy-devs/pythonbot) 🛑
-- [Python Bot API](https://github.com/maxy-devs/pythonbotapi) 🛑
+- [Python Bot](https://github.com/eepydevs/pythonbot) 🛑
+- [Python Bot API](https://github.com/eepydevs/pythonbotapi) 🛑
 
 <hr>
 
@@ -37,7 +38,7 @@ We code in very popular programming languages \
 <p align="center"><img src="https://img.shields.io/badge/-javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="javascript"><br>the refrigerator | placeholder<br>developers of fsh!!!</p>
 
 ## ✅ Active ✅
-- [fsh](https://fsh.plus/) ✅
+- 🌐 [fsh](https://fsh.plus/) ✅
 
 <hr>
 
@@ -48,4 +49,4 @@ We code in very popular programming languages \
 <p align="center"><img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python"> <img src="https://img.shields.io/badge/-typesrcipt-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript"><br>please don't throw me :<</p>
 
 ## ✅ Active ✅
-- [bricked.dev](https://bricked.dev/) ✅
+- 🌐 [bricked.dev](https://bricked.dev/) ✅
